@@ -1,87 +1,98 @@
-Account for Limited English/no Internet
+## Account for Limited English/no Internet
 
-Approval needed to post to sites
+## Approval needed to post to sites
 
-Assume content might be misunderstood
+## Assume content might be misunderstood
 
-Assume public domain/no privacy
+## Assume public domain/no privacy
 
-Authorities/Fed Policies sited; other guidance/standards
+## Authorities/Fed Policies sited; other guidance/standards
 
-Be courteous/honest/respectful; use responsibly
+## Be courteous/honest/respectful; use responsibly
 
-Conflict of Interest
+## Conflict of Interest
 
-Direct visitors to .gov site
+## Direct visitors to .gov site
 
-Disclaimers should be used
+## Disclaimers should be used
 
-Don't discuss info not already public (Info on SM also must be elsewhere on web)
+## Don't discuss info not already public (Info on SM also must be elsewhere on web)
 
-Emergency Use
+##  **Emergency Use**
+In the event of an emergency, social media tools should be utilized in accordance with the Emergency Public Affairs Plan, which calls for a coordinated messaging effort between the Headquarters Office of Public Affairs and any programs, sites or facilities that may be involved: "When Department of Energy headquarters or a DOE site/facility declares an emergency, it is expected to meet the public information obligations of the Department of Energy orders, guidance and requirements and the comprehensive emergency management plans developed by each site.”
 
-Ethics/ethical conduct
+This guidance and requirement includes the timely provision of media informational materials to the Public Affairs staff at Department headquarters. Every effort should be made by the designated public affairs officers at the site level to consult with the Headquarters Public Affairs Office on the initial dissemination of information to the public and media.
 
-Focus on mission/duties
+From the DOE O 151.1C "Comprehensive Emergency Management System":
 
-FOIA
+"Initial news releases or public statements must be approved by the Cognizant Field Element official responsible for emergency public information review and dissemination. Following initial news releases and public statements, updates must be coordinated with the DOE/NNSA  (as appropriate) Director of Public Affairs and the Headquarters Emergency Manager."
 
-Hatch Act
+For more information on emergency communication protocols, reference the Emergency Public Affairs Plan or contact your public affairs representative.
 
-How to establish an account
+([From the Department of Energy](http://energy.gov/about-us/web-policies/social-media))
 
-How to take advantage of SM platforms
+## Ethics/ethical conduct
 
-ID self as Govt employee (or don't, if personal account)
+## Focus on mission/duties
 
-Labor Relations
+## FOIA
 
-Managing SM accounts
+## Hatch Act
 
-Need approval to solicit feedback from public
+## How to establish an account
 
-No copyright/trademark
+## How to take advantage of SM platforms
 
-No Endorsements
+## ID self as Govt employee (or don't, if personal account)
 
-No Intellectual property
+## Labor Relations
 
-No personal opinions
+## Managing SM accounts
 
-No PII or classified info
+## Need approval to solicit feedback from public
 
-No political/sexual/hate/vulgar/abusive comments or attacks
+## No copyright/trademark
 
-No requests to contact Congress/officials or lobbying
+## No Endorsements
 
-No surveys/polls/questionnaires
+## No Intellectual property
 
-Only use official email
+## No personal opinions
 
-Only use sites approved by agency
+## No PII or classified info
 
-Open and Transparent Govt
+## No political/sexual/hate/vulgar/abusive comments or attacks
 
-Limited Personal use on Govt equip
+## No requests to contact Congress/officials or lobbying
 
-Personal (non-official) vs. Official Use
+## No surveys/polls/questionnaires
 
-Privacy Act
+## Only use official email
 
-Records Mgmt discussed/referenced
+## Only use sites approved by agency
 
-Refer to a SM Handbook
+## Open and Transparent Govt
 
-Risk Mgmt
+## Limited Personal use on Govt equip
 
-Roles and Responsibilities
+## Personal (non-official) vs. Official Use
 
-Section 508
+## Privacy Act
 
-Security
+## Records Mgmt discussed/referenced
 
-Standards of Conduct/Rules of Behavior
+## Refer to a SM Handbook
 
-Usability of Data
+## Risk Mgmt
+
+## Roles and Responsibilities
+
+## Section 508
+
+## Security
+
+## Standards of Conduct/Rules of Behavior
+
+## Usability of Data
 
 
