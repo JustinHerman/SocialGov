@@ -62,6 +62,7 @@ For more information on emergency communication protocols, reference the Emergen
 ## No PII or classified info
 
 ## No political/sexual/hate/vulgar/abusive comments or attacks
+The one issue that stands out to me as one for further discussion is "no political" - this may be an area where there are differing levels of engagement by agency.  I reached out to the U.S. Office of Special Counsel, Hatch Act Unit and received the following information: "The advice that we give with respect to this issue and the Hatch Act is that the agency does not have any responsibility to remove political postings on its social media pages.  However, if it decides to do so, it must remove all political postings and not pick and choose which ones can stay and which ones must be removed.  So, basically, the advice is either remove all or do nothing – either all the political postings stay or all of them go."  I would opt to let members of the public voice the political support/dissent.  Because in my community, without letting this through, it would be a heavily moderated page, and sort of squimish around the 1st Amendment.
 
 ## No requests to contact Congress/officials or lobbying
 
