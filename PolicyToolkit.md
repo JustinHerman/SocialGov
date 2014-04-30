@@ -69,6 +69,9 @@ For more information on emergency communication protocols, reference the Emergen
 ## No surveys/polls/questionnaires
 
 ## Only use official email
+Official government social media accounts should use a government-owned email address for sign up. The government email indicates that the account is being used in conjunction with an official Agency effort. If possible, account should use an email which leads to a shared/group inbox. If using an employee email address there's the possibility that the account will no longer be able to be managed if the employees leaves their Agency. 
+
+Using a personal email address is discouraged since accountability of the account, along with correspondence sent to that personal email address, can present legal, ethical, and records challenges for the Agency.
 
 ## Only use sites approved by agency
 
