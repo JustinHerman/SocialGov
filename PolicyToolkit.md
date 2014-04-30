@@ -96,6 +96,7 @@ Using a personal email address is discouraged since accountability of the accoun
 ## Security
 
 ## Standards of Conduct/Rules of Behavior
+Wanted to raise a concern about individuals creating a "page" as opposed to a "profile" on Facebook to comment frequently on a federally managed page.  This creates a firewall in a sense, where they cannot not be removed by Facebook.  Often times, users can report a "profile" for harrassing behavior and Facebook will intervene.  Some frequently disciplined profiles then opt to create a "page".  Would it be appropriate to "ban Facebook pages, and only allow for individuals (profiles) to comment"?
 
 ## Usability of Data
 
