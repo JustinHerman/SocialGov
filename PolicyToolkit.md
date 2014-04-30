@@ -1,24 +1,79 @@
-## Account for Limited English/no Internet
+## Differentiation of personal vs official
 
-## Approval needed to post to sites
+* Definition of official use of social media
+* Hatch Act
+* Identification as government employee
+* Disclaimer of representing official views
+* Limited Personal Use on Government Equipment / Facilities
+* Labor Relations
+* On official sites, no personal opinions
+* ID self as Govt employee
 
-## Assume content might be misunderstood
+## Strategy
 
-## Assume public domain/no privacy
+* Organizational goals
+* How to take advantage of SM platforms to meet organizational goals
+* All policy herein focuses on **official** uses of social media
 
-## Authorities/Fed Policies sited; other guidance/standards
+## Content
 
-## Be courteous/honest/respectful; use responsibly
+* Focus on organizational mission
+* Linking and endorsement policy
+* No copyright/trademark (USG public domain)
+* No intellectual property
+* Direct visitors to .gov site
 
-## Conflict of Interest
+## Interaction with the public
 
-## Direct visitors to .gov site
+* System of Record Notice / Privacy Impact Assessment
+* Soliciting feedback from the public
+* Policy on surveys/polls/questionnaires
+* Policy on contests, challenges, and prizes
+* Usability of Data
 
-## Disclaimers should be used
+## Marketing
 
-## Don't discuss info not already public (Info on SM also must be elsewhere on web)
+* Audience research
+* Paid distribution and advertising
 
-##  **Emergency Use**
+## Evaluation
+
+* Performance metrics
+	* Audience size (reach)
+	* Activity (output)
+	* Engagement (outcome)
+* Strategic indicators
+
+## Managing SM accounts
+
+### Roles and Responsibilities
+
+* Refer to a SM Handbook
+* Framework position descriptions
+	* Public Affairs specialist
+	* Social media community manager
+	* Web design and production
+	* Multimedia producer
+	* Software development
+* Management and oversight
+
+### Clearance procedures
+
+* Approval needed to post to sites
+* No classified, PII, or other protected information
+* No posting of non-public information (unless cleared to do so)
+
+## Ethics/ethical conduct
+
+* Be courteous/honest/respectful; use responsibly
+* Conflict of Interest
+* No requests to contact Congress/officials or lobbying
+
+## Crisis communications
+
+* Central account backstopping 
+
+###  Emergency Action Plan
 In the event of an emergency, social media tools should be utilized in accordance with the Emergency Public Affairs Plan, which calls for a coordinated messaging effort between the Headquarters Office of Public Affairs and any programs, sites or facilities that may be involved: "When Department of Energy headquarters or a DOE site/facility declares an emergency, it is expected to meet the public information obligations of the Department of Energy orders, guidance and requirements and the comprehensive emergency management plans developed by each site.”
 
 This guidance and requirement includes the timely provision of media informational materials to the Public Affairs staff at Department headquarters. Every effort should be made by the designated public affairs officers at the site level to consult with the Headquarters Public Affairs Office on the initial dissemination of information to the public and media.
@@ -31,68 +86,32 @@ For more information on emergency communication protocols, reference the Emergen
 
 ([From the Department of Energy](http://energy.gov/about-us/web-policies/social-media))
 
-## Ethics/ethical conduct
+## Terms
 
-## Focus on mission/duties
+### Terms of Service (Government-compatible)
 
-## FOIA
+* Authorities/Fed Policies sited; other guidance/standards
 
-## Hatch Act
+### Terms of Use (limited forum, 1st Amendment, Privacy Act)
 
-## How to establish an account
+* Definition as limited public forum
+* Rules for content deletion and user banning
+* Differentiation of official USG and non-USG produced content
+* No political/sexual/hate/vulgar/abusive comments or attacks
+* Privacy Act
+	* Public domain/no expectation of privacy (?)
 
-## How to take advantage of SM platforms
+## Accessibility
 
-## ID self as Govt employee (or don't, if personal account)
+* Open and Transparent Government
+* Account for Limited English/no Internet
+* Section 508 and Captioning
+* Records Management and Freedom of Information Act
 
-## Labor Relations
+## Lifecycle
 
-## Managing SM accounts
-
-## Need approval to solicit feedback from public
-
-## No copyright/trademark
-
-## No Endorsements
-
-## No Intellectual property
-
-## No personal opinions
-
-## No PII or classified info
-
-## No political/sexual/hate/vulgar/abusive comments or attacks
-
-## No requests to contact Congress/officials or lobbying
-
-## No surveys/polls/questionnaires
-
-## Only use official email
-
-## Only use sites approved by agency
-
-## Open and Transparent Govt
-
-## Limited Personal use on Govt equip
-
-## Personal (non-official) vs. Official Use
-
-## Privacy Act
-
-## Records Mgmt discussed/referenced
-
-## Refer to a SM Handbook
-
-## Risk Mgmt
-
-## Roles and Responsibilities
-
-## Section 508
-
-## Security
-
-## Standards of Conduct/Rules of Behavior
-
-## Usability of Data
-
-
+* How to establish an account
+	* Terms of Service process
+	* Security
+		* Only use official email
+* Decommissioning an account
