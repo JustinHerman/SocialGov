@@ -12,7 +12,8 @@
 
 ## Conflict of Interest
 
-## Direct visitors to .gov site
+## Direct visitors to an official site
+Providing a link to an official .gov, .mil, or .us website provides readers with a way to get detailed information if needed. In addition, by using a URL shortener such as ([go.usa.gov](go.usa.gov)), links can double as verification that they're about to visit a safe and official website containing authoritative information.
 
 ## Disclaimers should be used
 
