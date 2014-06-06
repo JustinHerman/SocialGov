@@ -10,7 +10,7 @@ This [jsfiddle snippet](http://jsfiddle.net/Vab7V/3/) concatenates the 12+ pages
 
 By taking the resulting json file that resolves in the bottom right box on that [page](http://jsfiddle.net/Vab7V/3/)) and running it through this [JSON -> CSV tool](konklone.io/json), one ends up with a file that can be opened in a spreadsheet program.  
 
-Here is a [permalink to the end product](http://konklone.io/json/?id=644c62c159a300225b98) as of June 5, 2014, with a direct link to the csv [here](https://raw.githubusercontent.com/gbinal/SocialGov/patch-3/SMR-facebook-export_6-6-14.csv).  
+Here is a [permalink to the end product](http://konklone.io/json/?id=644c62c159a300225b98) as of June 5, 2014, with a direct link to the csv [here](https://raw.githubusercontent.com/gbinal/SocialGov/patch-3/SMR-facebook-export_6-6-14.csv) [right click on the link and save].  
 
 
 
